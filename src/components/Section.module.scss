@@ -1,0 +1,13 @@
+.Section {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    .sectionHeader {
+        text-transform: uppercase;
+        color: #FFF;
+        padding: .5rem;
+        border: solid thin;
+        margin: .5rem 0;
+        width: 100%;
+    }
+}
